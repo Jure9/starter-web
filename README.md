@@ -9,6 +9,10 @@ commands using a web project.
 
 ## Purpose
 
+Provideing simple examples for Git training demos.
+
 ## DEployment
+
+Simple web project that can be deployed on any web server or even local file system.
 
 ## How to contibute
